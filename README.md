@@ -1,5 +1,7 @@
 # OracleSql
+
 i just tried to add all my sql practice codes and exercise.
+This Exercise is from HR table.
 ------------------------------------------------------------------------
 -select * from employees;.
 -select last_name from employees;.
